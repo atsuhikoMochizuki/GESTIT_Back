@@ -12,7 +12,7 @@ Instructions pour lancer GESTIT:
 	- pour lancer le serveur de développement faire ng serve
 	- la page est accessible à http://localhost:4200/
 - démarrer redis
-	- sur windows : dans le shell, lancer ubuntu (doit être installé via le wsl) : $ ubuntu
+	- sur windows : dans le shell, lancer ubuntu (doit être installé via le wsl) : $ ubuntu puis $redis-server
 - envoyer une requête http pour obtenir le token: les requêtes sont dans le fichier du backend 	http/testPourOA/authentification.http
 	- on peut utiliser:
 	### LOGIN COLLABORATEUR

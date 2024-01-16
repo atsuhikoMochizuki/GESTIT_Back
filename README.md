@@ -1,28 +1,19 @@
 # GEStion de Transport Intra enTreprise
 ![logo du projet](logo2.png "SIGET_logo")
 
-Dans un contexte de grande entreprise, le transport des employés, durant les horaires de travail comme les trajets domicile-lieu de travail, peut amener à faire émerger certains besoins notamment aux niveaux des aspects suivants : 
-- Ethique de l’entreprise, volonté environnementale sincère.
-- Image de l’entreprise (diminution de l’empreinte carbone…)
-- Optimisation de la présence sur poste : diminution des retards
-- Sécurité des collaborateurs, réelle ou subjective (personnel féminin utilisant les transports en commun, aisance moyenne d’un collaborateur à conduire…)
-- Recherche d’axes d’amélioration concernant l’interaction entre les employés (convivialité, entraide…) 
-- Optimisation de la gestion du parc automobile de la société
+L'application WEB de gestion des transports intra muros permettant à tous vos collaborateurs de :
 
-La mise en place d’un système d’information peut être une solution envisageable pour répondre à ces problématiques.
+- réserver un véhicules de services pour un déplacement professionnel
+- d’organiser facilement des covoiturages
+- de réserver une place sur un covoiturage existant.
 
-L’objectif du projet GESTIT vise à répondre aux problématiques citées ci-dessus.
-Pour cela le logiciel propose de mettre à disposition de chaque collaborateur un espace personnel, sécurisé, accessible par une interface WEB. 
+Gérez votre parc de véhicule comme bon vous semble:
 
-Chaque collaborateur y a la possibilité :
-- D’initier (et gérer ensuite) des propositions de covoiturages aux autres, avec son véhicule personnel
-- De participer à des covoiturages proposés par ses collaborateurs et gérer ensuite ses réservations.
+- Ajouter un véhicule
+- Mettre un véhicule en travaux
+- Supprimer un véhicule
+- Gérer le cycle de vie
 
-Un module de gestion de la flotte automobile de la société est également intégré à l’application :
-- Chaque collaborateur peut y réserver des véhicules pour effectuer ses déplacements professionnels 
-- En outre, l’administrateur du système pourra y gérer le parc des véhicules :
-    - Ajout, suppression, mise en indisponibilité des véhicules.
-    - Gestion des réservations (annulations si véhicule en réparation par exemple)
 
 ## Remarque
 
